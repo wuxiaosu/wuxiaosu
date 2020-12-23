@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello I'm su 👋
+
+Just a coder.
+
+姑且算个程序员吧。
 
 <!--
 **wuxiaosu/wuxiaosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
